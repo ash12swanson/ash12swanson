@@ -1,4 +1,14 @@
-### Hi there 👋
+### I am...
+
+🏢 Lead Software Developer at [BEIER360](https://www.linkedin.com/company/71487433)
+
+🦄 Currently developing [Unicorn XS](https://unicornxs.com)
+
+🏫 A graduate in BSc Computer Science for Games from [SHU](https://shu.ac.uk)
+
+📱 Interested in mobile development with [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin)
+
+🕶 Looking forward to changing that last one to [.NET MAUI](https://github.com/dotnet/maui)
 
 <!--
 **ash12swanson/ash12swanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
