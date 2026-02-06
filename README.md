@@ -1,10 +1,10 @@
 ### I am...
 
-🏢 Full Stack Developer at OTCX
+🏢 Principal Engineer at OTCX
 
 🏫 A graduate in BSc Computer Science for Games from [SHU](https://shu.ac.uk)
 
-📱 Interested in mobile development with [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) and [.NET MAUI](https://github.com/dotnet/maui)
+📱 Interested in [dotnet](https://dotnet.microsoft.com/en-us/learn), [React](https://react.dev/), and the [Atmosphere](https://atproto.com/articles/atproto-ethos)
 
 <!--
 **ash12swanson/ash12swanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
